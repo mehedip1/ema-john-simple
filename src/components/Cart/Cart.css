@@ -8,3 +8,15 @@
 .cart p{
     font-size: 17px;
 }
+
+.Clear-btn{
+    display: flex;
+    width: 90%;
+    height: 56px;
+    margin: 10px auto;
+    border-radius: 4px;
+    background: #FF3010;
+    color: white;
+    justify-content: space-between;
+    align-items: center;
+}
